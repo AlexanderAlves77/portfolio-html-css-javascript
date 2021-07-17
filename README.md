@@ -12,3 +12,6 @@ O aplicativo conversor de temperatura.
 
 ## Projeto 04
 O Clicker da Galeria
+
+## Projeto 05
+Aplicativo controlador de velocidade de vídeo
