@@ -15,3 +15,6 @@ O Clicker da Galeria
 
 ## Projeto 05
 Aplicativo controlador de velocidade de vídeo
+
+## Project #06 
+Create Toast Notifications
